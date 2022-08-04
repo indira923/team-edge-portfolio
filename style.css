@@ -2,14 +2,18 @@ html, body {
     width: 100%;
     margin: 0;
     font-size: 100%;
+
 }
 
 body {
     text-align: center;
-    font-family: "Merriweather";
+    font-family: "DM Sans";
     background-color: cornflowerblue;
+    
 }
-
+img{
+    margin:auto 
+}
 /* .moon moon-background-col
     color
 .star {star js-parallax" style=
@@ -18,9 +22,12 @@ body {
 
 .parallax {
   background-image: url("https://www.worldatlas.com/r/w1200/upload/f0/e0/8a/shutterstock-663523441.jpg");
-  min-height: 500px;
+  min-height: 600px;
   background-attachment: fixed;
   background-position: center;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-size: cover;
 }
+
+.p
+
