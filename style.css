@@ -9,9 +9,15 @@ body {
     font-family: "Arima";
 
     height: 3000px;
-    background: linear-gradient(141deg, #f088d1 0%, #7bcfff 51%, #a65ef8 75%);
+    background:lightcoral;
+   
+    
 }
-}
+/* div {
+
+    display: flex; 
+    flex-wrap: wrap;
+} */
 img{
     margin:auto 
 }
@@ -21,11 +27,11 @@ img{
 <div class= "sky color"></div>
 } */
 
-.parallax {
+/* .parallax {
   background-image: url("https://www.worldatlas.com/r/w1200/upload/f0/e0/8a/shutterstock-663523441.jpg");
   min-height: 600px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
